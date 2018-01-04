@@ -1,4 +1,4 @@
-insert into people (first_name, last_name, address_line_1, address_line_2, city, state, zip_code)
-select 'Johnp', 'Doep', '123 Mainp', 'Apt #23', 'Des Moinesp', 'IP', '50165'
+insert into people (first_name, last_name, phone_number, address_line_1, address_line_2, city, state, zip_code)
+select 'Joh', 'Dooe', '555-111-1111', '1234 Main', 'Apt #21', 'Des Mnoines', 'OA', '51265'
 union all
-select 'TJane', 'Smithv', '789 Spruecee', '46', 'De Sotoo', 'IG', '50099';
+select 'Jan', 'Smiith', '555-222-2222', '6789 Spruce', '3', 'De Spoto', 'PA', '50067';
