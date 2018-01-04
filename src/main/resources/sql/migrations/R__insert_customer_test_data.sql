@@ -1,2 +1,2 @@
 insert into people (first_name, last_name, phone_number, address_line_1, address_line_2, city, state, zip_code)
-select 'Joh', 'Dooe', '555-111-1111', '1234 Main', 'Apt #21', 'Des Mnoines', 'OA', '51265';
+select 'Jooh', 'Dvooe', '525-111-1111', '234 Main', 'Apt #1', 'es Mnoines', 'LA', '51285';
